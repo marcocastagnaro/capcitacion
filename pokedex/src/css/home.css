@@ -1,0 +1,18 @@
+.header {
+    font-size: 40px;
+    color: yellow;
+    text-align: center;
+    mso-font-info-type: cursive;
+    font-family: cursive;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/pokemonBackground.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: black;
+}
